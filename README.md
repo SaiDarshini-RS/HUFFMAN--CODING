@@ -7,21 +7,27 @@ To implement Huffman coding to compress the data using Python.
 
 ## Algorithm:
 ### Step1:
-<br>
 
+Get the input string.
 
 ### Step2:
-<br>
+
+Create tree nodes.
+
 
 ### Step3:
-<br>
+
+Main function to implement huffman coding.
+
 
 ### Step4:
-<br>
+
+Calculate frequency of occurence.
+
 
 ### Step5:
-<br>
 
+Print the characters and its huffmancode<br>
  
 ## Program:
 
